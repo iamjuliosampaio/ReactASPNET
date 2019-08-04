@@ -1,0 +1,14 @@
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\bin\Debug\netcoreapp2.1\ReactASPCrud.deps.json
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\bin\Debug\netcoreapp2.1\ReactASPCrud.runtimeconfig.json
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\bin\Debug\netcoreapp2.1\ReactASPCrud.runtimeconfig.dev.json
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\bin\Debug\netcoreapp2.1\ReactASPCrud.dll
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\bin\Debug\netcoreapp2.1\ReactASPCrud.pdb
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.1\ReactASPCrud.csprojAssemblyReference.cache
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.1\ReactASPCrud.csproj.CoreCompileInputs.cache
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.1\ReactASPCrud.RazorAssemblyInfo.cache
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.1\ReactASPCrud.RazorAssemblyInfo.cs
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.1\ReactASPCrud.AssemblyInfoInputs.cache
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.1\ReactASPCrud.AssemblyInfo.cs
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.1\ReactASPCrud.RazorTargetAssemblyInfo.cache
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.1\ReactASPCrud.dll
+C:\simpletalk\ReactTutorial\ReactASPCrud\ReactASPCrud\obj\Debug\netcoreapp2.1\ReactASPCrud.pdb
